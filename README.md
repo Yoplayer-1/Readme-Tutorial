@@ -250,40 +250,40 @@ you can directly add it like 😀 and with shortcode :grinning:
 
 Some of the [custom](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#github-custom-emoji) GitHub emoji are below:
 
-Atom IDE :atom:
+* Atom IDE :atom:
 
-Basecampy :basecampy:
+* Basecampy :basecampy:
 
-Electron :electron:
+* Electron :electron:
 
-Finnadie :finnadie:
+* Finnadie :finnadie:
 
-GODMODE :godmode:
+* GODMODE :godmode:
 
-Neckbeard :neckbeard:
+* Neckbeard :neckbeard:
 
-RAGE 1 :rage1:
+* RAGE 1 :rage1:
 
-RAGE 2 :rage2:
+* RAGE 2 :rage2:
 
-Rage 3 :rage3:
+* Rage 3 :rage3:
 
-RAGE 4 :rage4:
+* RAGE 4 :rage4:
 
-Shipit :shipit:
+* Shipit :shipit:
 
-Troll Face :trollface: 	
+* Troll Face :trollface: 	
 
-Basecamp :basecamp:
+* Basecamp :basecamp:
 
-Bowtie :bowtie:
+* Bowtie :bowtie:
 
-Feels Good :feelsgood:
+* Feels Good :feelsgood:
 
-Gober Serk :goberserk:
+* Gober Serk :goberserk:
 
-Hurt real BAD :hurtrealbad:
+* Hurt real BAD :hurtrealbad:
 
-Octocat :octocat:
+* Octocat :octocat:
 
-Suspect :suspect:
+* Suspect :suspect:
