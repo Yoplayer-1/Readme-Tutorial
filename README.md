@@ -48,7 +48,7 @@ Alternatively,
   ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
   
   or choose a local image like this
-  ![Test Image 1](hacker.png)
+  ![](hacker.jpg)
 
   
  
