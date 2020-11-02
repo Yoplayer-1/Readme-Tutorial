@@ -37,6 +37,18 @@ Alternatively,
   - Like this
   - And this
   
+  ### If your project is open source so you might want a license
+  If you read [this section](https://www.makeareadme.com/#license-1) there is written we want a license. Use this [website](https://choosealicense.com/) to get one.
   
   
   
+  # Images
+  
+  you can either choose images from the web like this
+  ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+  
+  or choose a local image like this
+  ![Test Image 1](hacker.png)
+
+  
+ 
