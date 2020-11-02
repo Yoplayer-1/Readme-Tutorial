@@ -53,7 +53,7 @@ Alternatively,
   or link it to a webpage
   
   
-  [![Netlify Status](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)](https://www.google.com/)
+  [![GOOGLE](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)](https://www.google.com/)
 
 
   
@@ -142,8 +142,8 @@ Ordered
 
 Images
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+Format: [Alt Text](https://github.com/logos)
 
 Links
 
