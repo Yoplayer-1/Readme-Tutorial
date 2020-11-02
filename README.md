@@ -143,7 +143,7 @@ Ordered
 Images
 
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-Format: [Alt Text](https://github.com/logos)
+Download logos of GitHub: ![Alt Text](https://github.com/logos)
 
 Links
 
